@@ -12,4 +12,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Rupesh Shrestha**. I’m an Computer Engineer and an IT enthusiast. I'm growing my IT career by learing new cool skills.
+Hi there! I'm **Rupesh Shrestha**. I’m a Computer Engineer and an IT enthusiast. I'm growing my IT career by learing new cool skills.
